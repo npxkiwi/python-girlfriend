@@ -11,3 +11,7 @@ Made by ._.notepad on discord
 * Download the file
 * Open Cmd
 * Type `py Girlfriend-UwU.py`
+
+
+# Warning
+This program may harm your computer
