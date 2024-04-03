@@ -6,6 +6,7 @@ from time import sleep
 import socket
 import ctypes
 import webbrowser
+import os
 # Information
 Alder = random.random # How Old is she
 Navn = ["Amanda", "Andrea", "Corina"] # Her name
@@ -19,6 +20,7 @@ UwUUrl = "https://www.youtube.com/watch?v=MxO0z8OL6rM"
 DitNavn = ""
 
 def svinediller():
+    os.system("cls")
     print(f"Hello. I'm your new girlfriend! My name is " + random.choice(Navn) + "\n")
     print(f"What is your name?\n")
     inputnavn = input("Name: ")
