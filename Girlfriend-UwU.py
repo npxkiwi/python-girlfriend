@@ -36,7 +36,7 @@ def svinediller():
 
 
 def askqusti():
-    print(f"Hej " + DitNavn + "\nDo you want to ask me some questions?\Here are some questions:\n1. How old are you?\n2. I want to tinker with you :)\n3. Are you gay?")
+    print(f"Hej " + DitNavn + "\nDo you want to ask me some questions?\Here are some questions:\n1. How old are you?\n2. I want to touch you :)\n3. Are you gay?")
     ask = input("Questions: ")
     if ask == "1":
         print(f"I'm... I don't have an age. Because I don't exist. Get out of the matrix using this program :=)")
